@@ -1,5 +1,4 @@
-baseURL = "/"
-theme = "hugo-apero"
+baseURL = "rubuky.com/"
 languageCode = "en"
 title = "Dianyi Yang"
 author = "Dianyi Yang"
