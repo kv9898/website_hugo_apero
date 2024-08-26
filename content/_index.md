@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: I'm.
+description: I'm .
 image_left: true
 images:
 - img/revoir.jpg
