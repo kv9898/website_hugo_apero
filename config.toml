@@ -1,4 +1,5 @@
 baseURL = "/"
+theme = "hugo-apero"
 languageCode = "en"
 title = "Dianyi Yang"
 author = "Dianyi Yang"
