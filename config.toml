@@ -155,6 +155,16 @@ enableEmoji = true
     title = "About Blogophonic"
     url = "/about/"
     weight = 1
+  [[menu.header]]
+    name = "CV"
+    title = "CV"
+    url = "/CV/CV_Dianyi.pdf"
+    weight = 2
+  #[[menu.header]]
+  #  name = "Papers"
+  #  title = "Papers"
+  #  url = "/papers/"
+  #  weight = 2
   #[[menu.header]]
   #  name = "Blog"
   #  title = "Blog"

@@ -148,5 +148,7 @@
     <loc>http://localhost:4321/contributors/</loc>
   </url><url>
     <loc>http://localhost:4321/license/</loc>
+  </url><url>
+    <loc>http://localhost:4321/papers/</loc>
   </url>
 </urlset>
