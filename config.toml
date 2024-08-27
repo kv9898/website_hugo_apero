@@ -1,4 +1,4 @@
-baseURL = "https://www.rubuky.com/"
+baseURL = "https://rubuky.com/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Dianyi Yang"

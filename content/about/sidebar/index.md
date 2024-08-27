@@ -1,18 +1,26 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Hugo Apéro"
+author: "Dianyi Yang"
 role: "A Hugo theme"
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
-audio_link_label: "How to say my name" # leave blank to exclude
+#audio_link_label: "How to say my name" # leave blank to exclude
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
-  url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+- name: Political Economy
+  url: https://en.wikipedia.org/wiki/Political_economy
+- name: Monetary Policy
+  url: https://en.wikipedia.org/wiki/Monetary_policy
+- name: Public Opinion
+  url: https://en.wikipedia.org/wiki/Public_opinion
+- name: Causal Inference
+  url: https://en.wikipedia.org/wiki/Causal_inference
+- name: Game Theory
+  url: https://en.wikipedia.org/wiki/Game_theory
+- name: Machine Learning
+  url: https://en.wikipedia.org/wiki/Machine_learning
+- name: Text Analysis
+  url: https://en.wikipedia.org/wiki/Text_mining
 ---
 
 ** index doesn't contain a body, just front matter above.
