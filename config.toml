@@ -130,6 +130,14 @@ enableEmoji = true
       icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://scholar.google.com/citations?hl=en&user=lBLufI8AAAAJ"
+  [[params.social]]
+      icon      = "bilibili" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://space.bilibili.com/34634614"
+  [[params.social]]
+      icon      = "zhihu" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.zhihu.com/people/yang-dian-yi-9"
 
 [taxonomies]
   category = "categories"
