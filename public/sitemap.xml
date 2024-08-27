@@ -38,19 +38,31 @@
     <loc>http://localhost:4321/collection/day02/03-blogdown/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:4321/categories/</loc>
+    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/</loc>
+    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/papers/philippines/</loc>
+    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/categories/evergreen/</loc>
+    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/papers/</loc>
+    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/papers/hknsl/</loc>
+    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/categories/theme-features/</loc>
+    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/blog/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:4321/blog/social/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/categories/theme-features/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/tags/style/</loc>
@@ -69,9 +81,6 @@
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/blog/evergreen/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/categories/evergreen/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/talk/campfire/</loc>
@@ -148,7 +157,5 @@
     <loc>http://localhost:4321/contributors/</loc>
   </url><url>
     <loc>http://localhost:4321/license/</loc>
-  </url><url>
-    <loc>http://localhost:4321/papers/</loc>
   </url>
 </urlset>

@@ -6,7 +6,7 @@
     <description>Recent content on Dianyi Yang</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Nov 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
@@ -77,6 +77,20 @@
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/collection/day02/03-blogdown/</guid>
       <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/collection\day02\03-blogdown\index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: collection My layout is: single-series part 2! does this work? now for some very cool things more get ready! </description>
+    </item>
+    <item>
+      <title>Economic Impact of the South China Sea Dispute in China-Philippines Relations from 2012 to 2016: A DM-LFM analysis</title>
+      <link>http://localhost:4321/papers/philippines/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/papers/philippines/</guid>
+      <description>Abstract The relationship between China and the Philippines has seen dramatic fluctuations in recent years, with the South China Sea dispute becoming increasingly prominent in bilateral relations. Grounded in the theoretical debate between realist-liberal International Relations (IR) theorists, this study seeks to empirically measure the economic impact of the South China Sea dispute between China and the Philippines from 2012 to 2016. To do so, we use the Dynamic Multilevel Latent Factor Model (DM-LFM) and monthly trade data between the two countries to quantitatively assess the impact of the dispute on bilateral trade.</description>
+    </item>
+    <item>
+      <title>The Differential Impact of the Hong Kong National Security Law on Political Sensitivity Bias in Local Opinion Polls</title>
+      <link>http://localhost:4321/papers/hknsl/</link>
+      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/papers/hknsl/</guid>
+      <description>Abstract Political sensitivity bias refers to the deviation of observed poll results from the genuine public opinion due to perceived government pressure on respondents. This bias can mislead analysts and politicians into making inaccurate assessments of political climates. Hong Kong, having experienced a rapid reduction in political freedoms under the Hong Kong National Security Law (HKNSL), provides a unique case for studying political sensitivity bias where the impacts of other transitory factors can be isolated.</description>
     </item>
     <item>
       <title>Set up your social</title>
