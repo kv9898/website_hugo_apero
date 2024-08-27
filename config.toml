@@ -124,11 +124,15 @@ enableEmoji = true
       url       = "https://orcid.org/0009-0004-4652-3429"
   [[params.social]]
       icon      = "researchgate" # icon name without the 'fa-'
-      icon_pack = "fab"
+      icon_pack = "ai"
       url       = "https://www.researchgate.net/profile/Dianyi-Yang"
   [[params.social]]
+      icon      = "ssrn" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5789803"
+  [[params.social]]
       icon      = "google-scholar" # icon name without the 'fa-'
-      icon_pack = "fab"
+      icon_pack = "ai"
       url       = "https://scholar.google.com/citations?hl=en&user=lBLufI8AAAAJ"
   [[params.social]]
       icon      = "bilibili" # icon name without the 'fa-'
