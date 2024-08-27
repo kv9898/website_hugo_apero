@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Public Administration on Dianyi Yang</title>
+    <link>http://localhost:4321/tags/public-administration/</link>
+    <description>Recent content in Public Administration on Dianyi Yang</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/public-administration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Reproduction of &#39;Do Female Officers Police Differently? Evidence from Traffic Stops&#39; (American Journal of Political Science, 2021)</title>
+      <link>http://localhost:4321/papers/femaleofficer/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/papers/femaleofficer/</guid>
+      <description>Abstract We reproduce Shoub, Kelsey, Katelyn E. Stauffer, and Miyeon Song (May 2021). &amp;ldquo;Do Female Officers Police Differently? Evidence from Traffic Stops,&amp;rdquo; with alternative specifications and interpretation of the results. While our reproduction confirms that female police officers are less likely to search drivers than male officers and female officers are more likely to find contraband upon a search, we re-evaluate the authors&amp;rsquo; claims on the equality of effectiveness between male and female officers and find that female officers in the dataset confiscated less contraband than male officers.</description>
+    </item>
+  </channel>
+</rss>
