@@ -38,31 +38,82 @@
     <loc>http://localhost:4321/collection/day02/03-blogdown/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:4321/papers/femaleofficer/</loc>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/categories/</loc>
-    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/</loc>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/feminism/</loc>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/papers/</loc>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/police-citizen-interaction/</loc>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/public-administration/</loc>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/categories/public-administration/</loc>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/public-opinion/</loc>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/</loc>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/united-states/</loc>
+    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/china/</loc>
     <lastmod>2023-11-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/papers/philippines/</loc>
     <lastmod>2023-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/evergreen/</loc>
+    <loc>http://localhost:4321/categories/international-conflict/</loc>
     <lastmod>2023-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/papers/</loc>
+    <loc>http://localhost:4321/tags/maritime-conflict/</loc>
     <lastmod>2023-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/papers/hknsl/</loc>
+    <loc>http://localhost:4321/tags/philippines/</loc>
+    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/south-china-sea/</loc>
+    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/trade/</loc>
+    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/hong-kong-national-security-law/</loc>
     <lastmod>2023-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/theme-features/</loc>
+    <loc>http://localhost:4321/tags/political-sensitivity-bias/</loc>
+    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/preference-falsification/</loc>
+    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/categories/public-opinion/</loc>
+    <lastmod>2023-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/papers/hknsl/</loc>
     <lastmod>2023-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/blog/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/blog/social/</loc>
+    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/categories/theme-features/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/tags/style/</loc>
@@ -74,13 +125,13 @@
     <loc>http://localhost:4321/blog/fonts/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:4321/collection/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/blog/evergreen/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/categories/evergreen/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/talk/campfire/</loc>
