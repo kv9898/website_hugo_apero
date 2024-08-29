@@ -85,7 +85,7 @@ enableEmoji = true
   [params.giscus]
     repo = "kv9898/website"
     repo_id = "R_kgDOMoo-dg"
-    category = "Comments"
+    category = "General"
     category_id = "DIC_kwDOMoo-ds4CiDTF"
     mapping = "pathname"
     reactions_enabled = "1"
