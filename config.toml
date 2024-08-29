@@ -69,12 +69,12 @@ enableEmoji = true
   headingFontFamily = "sans-serif"
 
   # Specify use of utterances, giscus or disqus
-  comments = "utterances"
+  comments = "giscus"
     
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
-    repo_name = "apreshill/apero"
-    issue_term = "pathname" # url, pathname, or title
+    repo_name = "kv9898/website"
+    issue_term = "Comment" # url, pathname, or title
     theme = "boxy-light"
     label = "comments :crystal_ball:"
 
@@ -83,14 +83,14 @@ enableEmoji = true
   # needed to populate the below information.
   # https://www.joelnitta.com/posts/2021-11-24_using-giscus/
   [params.giscus]
-    repo = "apreshill/apero"
-    repo_id = "[REPO ID]="
+    repo = "kv9898/website"
+    repo_id = "R_kgDOMoo-dg"
     category = "Comments"
-    category_id = "[category ID]"
+    category_id = "DIC_kwDOMoo-ds4CiDTF"
     mapping = "pathname"
     reactions_enabled = "1"
     emit_metadata = "0"
-    theme = "light"
+    theme = "preferred_color_scheme"
     lang = "en"
 
   # Configuration of math rendering
