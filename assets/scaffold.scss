@@ -157,6 +157,11 @@ h1, h2, h3, h4, h5, h6 {
     position: -webkit-sticky;
     position: sticky;
   }
+  .blog-info { // DY: fix blog info to be sticky
+    @extend .bg-#{$sidebarBgColor}, .top-0;
+    position: -webkit-sticky;
+    position: sticky;
+  }
   details {
     @extend .ph4, .mv4 ;
   }
