@@ -3,6 +3,12 @@
     {{ if .text_link_label }}
       <small class="db f7 pt3"><a href="{{ .text_link_url }}" class="dib fw7 ttu">{{ .text_link_label }}</a></small>
     {{ end }}
+    {{ if .text_link_label2 }}
+      <small class="db f7 pt3"><a href="{{ .text_link_url2 }}" class="dib fw7 ttu">{{ .text_link_label2 }}</a></small>
+    {{ end }}
+    {{ if .text_link_label3 }}
+      <small class="db f7 pt3"><a href="{{ .text_link_url3 }}" class="dib fw7 ttu">{{ .text_link_label3 }}</a></small>
+    {{ end }}
     {{ if .categories_link }}
       <small class="db f7 pt3"><a href="/categories/" class="dib fw7 ttu">Categories</a></small>
     {{ end }}

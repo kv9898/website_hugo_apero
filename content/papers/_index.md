@@ -21,10 +21,14 @@ sidebar:
   categories_link: no
   description: "I hope I will publish in peer-reviewed journals soon..."
   series_link: no
-  show_sidebar_adunit: true
+  show_sidebar_adunit: no
   tags_link: no
   text_link_label: Google Scholar
   text_link_url: https://scholar.google.com/citations?hl=en&user=lBLufI8AAAAJ
+  text_link_label2: ResearchGate
+  text_link_url2: https://www.researchgate.net/profile/Dianyi-Yang
+  text_link_label3: SSRN
+  text_link_url3: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5789803
   title: Working Papers
 thumbnail_left: true
 title: My Papers
