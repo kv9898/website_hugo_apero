@@ -10,7 +10,9 @@ subtitle: adapted from my MSc dissertation
 title: >-
   Bail out the money printer?  The impact of fiscal indemnity on central bank
   profitability
-format: hugo-md
+format:
+  hugo-md:
+    html-math-method: webtex
 tags:
   - central bank losses
   - fiscal-monetary interaction
@@ -21,6 +23,11 @@ links:
     icon_pack: fa
     name: PDF
     url: pdf/BailoutCB.pdf
+execute:
+  echo: false
+  warning: false
+  error: false
+  message: false
 ---
 
 
@@ -29,3 +36,37 @@ links:
 Since 2022, central bank losses have been prevalent in advanced economies due to previous quantitative easing and recent inflationary pressures. This paper focuses on the unique case of the United Kingdom, where the government promised in advance to cover any central bank losses arising from quantitative easing. This promise is known as the indemnity. A game-theoretical model is proposed to explain the causes and effects of such indemnity. The model's predictions about the indemnity's effect on central bank profitability are empirically examined. Using the novel Dynamic Multilevel Latent Factor Model (DM-LFM), the indemnity is found to have significantly boosted the Bank of England's profits in the deflationary environment after 2008, but exacerbated its losses under the recent inflationary pressure since 2022. The theoretical model suggests the pronounced effects are due to the Bank of England's high sensitivity to losses and the UK government's moderate fiscal liberalism. Therefore, the British experience should not be generalised. Nevertheless, the theoretical and empirical lessons can inform policy-makers about future institutional designs concerning the fiscal-monetary interactions and the public finance-price stability trade-off.
 
 The replication files for this paper are available at <https://github.com/kv9898/BailoutCB>.
+
+# Snapshot of the paper
+
+The formal model suggests that:
+
+1.  The UK introduced the indemnity because of its government's relatively low fiscal conservatism.
+2.  Naive profit and loss comparisons likely *underestimate* the impact of indemnity on BoE financials.
+3.  The model confirms the benefits of indemnity for price stability, but highlights the *heterogeneity* in such benefits across contexts.
+    -   For the UK, the indemnity helps to tackle deflation but not suppress inflation
+4.  Indemnity leads to higher risk-taking by central banks, but higher risks only translate into higher losses
+    1.  under inflationary pressure, and
+    2.  when the central bank's sensitivity to losses is not too low.
+5.  It is expected that the indemnity boosted the profits of the Bank of England during the deflationary period (2009-2021) and exacerbated the losses during the inflationary period (2022-2023).
+
+The empirical analysis supports the hypotheses given in the last bullet point. On the one hand, the indemnity has brought, on average, the BoE additional profits of 0.39% of GDP between 2009 and 2021. On the other hand, it led to additional *losses* of 0.7% of GDP between 2022 and 2023.
+
+<figure>
+<img src="index.markdown_strict_files/figure-markdown_strict/unnamed-chunk-1-1.png" width="768" alt="Estimated Average Treatment Effect on the Treated (ATT) of indemnity on BoE profits (% of UK GDP)" />
+<figcaption aria-hidden="true">Estimated Average Treatment Effect on the Treated (ATT) of indemnity on BoE profits (% of UK GDP)</figcaption>
+</figure>
+
+The negative treatment effect is especially large in 2023, when it amounted to 1.5% of GDP (![p\<0.01](https://latex.codecogs.com/svg.latex?p%3C0.01 "p<0.01")).
+
+<figure>
+<img src="index.markdown_strict_files/figure-markdown_strict/unnamed-chunk-2-1.png" width="768" alt="Estimated counterfactual and actual trends of BoE profits as % of UK GDP" />
+<figcaption aria-hidden="true">Estimated counterfactual and actual trends of BoE profits as % of UK GDP</figcaption>
+</figure>
+
+It is argued that the UK has the highest fiscal conservatism and central bank financial sensitivity, followed by the US and the Euro Area.
+
+<figure>
+<img src="index.markdown_strict_files/figure-markdown_strict/unnamed-chunk-3-1.png" width="768" alt="Approximate locations of the UK, US and Euro Area countries" />
+<figcaption aria-hidden="true">Approximate locations of the UK, US and Euro Area countries</figcaption>
+</figure>
