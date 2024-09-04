@@ -34,6 +34,18 @@ Since 2022, central bank losses have been prevalent in advanced economies due to
 
 The replication files for this paper are available at <https://github.com/kv9898/BailoutCB>.
 
+```{}
+@MastersThesis{Yang2024,
+  author = {Dianyi Yang},
+  school = {London School of Economics and Political Science},
+  title  = {Bail out the money printer?  The impact of fiscal indemnity on central bank profitability},
+  year   = {2024},
+  month  = aug,
+  type   = {mathesis},
+  url    = {https://rubuky.com/pdf/BailoutCB.pdf},
+}
+```
+
 # Snapshot of the paper
 
 The formal model suggests that:
