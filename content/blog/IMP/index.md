@@ -5,7 +5,7 @@ title: >-
   high debt levels.
 subtitle: originally posted on Medium as a LSE SU Central Banking Society contribution
 categories:
-  - political economy
+  - monetary policy
 date: '2023-02-23'
 draft: false
 excerpt: 'Keywords: monetary policy, stagflation, inequality, deleveraging'
