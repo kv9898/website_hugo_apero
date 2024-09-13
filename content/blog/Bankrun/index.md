@@ -83,4 +83,22 @@ For Central Bank:
 
 Welcome to a world of save deposits and no bank run.
 
+# Why are central banks immune to bank runs?
+
+>  You don't know the power of the dark side.
+>
+> &mdash; Darth Vader
+
+Simple answer: central banks cannot bu "run" by depositors because they can only exchange one form of their liability (deposit) to another (cash or commercial bank reserves).
+
+Let's first consider the case where depositors transfer their funds to commercial banks (Pony) in a silly panic. In this case, the some individual deposits become bank reserves (see diagram below), leaving the size of the balance sheet intact. The central bank does not need to sell any assets for cash like commercial banks do. This is because, commercial bank reserves with the central bank are also a form of its liability that can be issued freely by the central bank. More importantly, this does not affect the central bank's profitability - because the interest rate paid on reserves is the same as that paid on individual deposits, the policy deposit rate.
+
+![image](cb6.png "Central Bank's balance sheet after transfers to Pony")
+
+"What about taking out cash from the central bank?" Oh, the central bank would have laughed at this idea. This is because, cash is also a form of its liability - it is essentially an "IOU" written by the central bank. Maybe even worse than that, it will only be repaid with other forms of "IOU". But why is withdrawing cash even a good thing for the central bank? Because the central bank doesn't pay cashholders any interest. The central bank's balance sheet will be like this: 
+
+![image](cb7.png "Central Bank's balance sheet after cash withdrawals")
+
+It can be seen that, with the size of the balance sheet intact, the central bank is more profitable by having the same return on the assets on the left hand side, and paying less interest on the liabilities on the right hand side due to a higher proportion of cash. In fact, this profit generated from non-interest bearing cash is called seigniorage (see [Downes & Vaez-Zadeh, 1991](https://www.elibrary.imf.org/display/book/9781557751850/9781557751850.xml)).
+
 # Frequently Asked Questions
