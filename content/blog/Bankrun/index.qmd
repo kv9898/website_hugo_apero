@@ -6,7 +6,7 @@ categories:
 - monetary policy
 date: "2024-09-12"
 draft: false
-excerpt: "Keywords: monetary policy, bank run, moral hazard"
+excerpt: "Keywords: monetary policy, bank run, financial system"
 layout: single
 format: 
   hugo-md:
@@ -14,8 +14,10 @@ format:
 tags: 
 - monetary policy
 - bank run
-- moral hazard
+- financial system
 ---
+
+Despite the failures from the 2007-2008 Global Financial Criss=is (GFC) and subsequent overhauls of the financial system, we still saw bank runs in 2023 which contributed to the collapse of the Silicon Valey Bank (SVB), Silvergarte Bank and Signature Bank. Absurdly enough, the Fed's response was to create the Bank Term Funding Program (BTFP) which allowed the surviving banks to borrow cheaply, and deposit the borrowed funds with the Fed at a higher interest rate for a profit (see Lee and Wessel's [post](https://www.brookings.edu/articles/what-did-the-fed-do-after-silicon-valley-bank-and-signature-bank-failed/)).
 
 
 

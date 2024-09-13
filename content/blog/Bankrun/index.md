@@ -31,6 +31,7 @@ Here's a summary:
 - Central banks cannot be "run" by depositors as it can only exchange one form of its liability (deposit) to another (cash or commercial bank reserves)
 - As long as the central banks do not withdraw their "savings" from the commercial banks - they can't by design, by the way; the commercial banks would be immune from bank runs.
 - Central banks under this setting can be intuitively understood as a firewall between the (demand) depositors and commercial banks.
+- Commercial bank reserves deposited at central banks will be deprecated.
 
 Let me walk you through this process with some graphical illustrations of balance sheets：
 
@@ -42,8 +43,44 @@ The central bank's balance sheet would look like this:
 
 ![image](cb1.png "Central Bank's initial balance sheet")
 
-If some depositors start moving their demand deposits to the central bank, this will not change the *size* but the *composition* of the balance sheet of the central bank. Namely, some central bank reserves become individual deposits at the central bank:
+The new policy allows despositors to save with the central bank - very safe as we will discuss later, and receive daily interests a the policy deposit rate (which is slightly below the lending rate, the spread serves as an insurance). Why do I emphasize that interests are paid daily (after a maintenance period) at the policy rate? Because they are the terms that commercial banks and the government enjoy for their deposits with the central bank, we should *democratise* this privilege to the people.
+
+This should attract some depositors. If some depositors start moving their demand deposits to the central bank, this will not change the *size* but the *composition* of the balance sheet of the central bank. Namely, some central bank reserves become individual deposits at the central bank:
 
 ![image](cb2.png "Central Bank's balance sheet after conversion")
+
+As a consequence, our Pony bank is in a difficult position where the depositors' switch to the central bank is effectively a run on the Pony! Pony's reserves are drained and liquidity is needed.
+
+![image](commercial2.png "Pony's balance sheet after conversion")
+
+Therefore, it is necessary for the central bank to allow Pony to borrow from it, *without collateral*. It it required collateral, Pony would fail due to drained asssets. This is also key to the failures of the SVB and Signature Bank - The Fed requried them to provide collateral before it can lend them through the Discount Window facility (see Wessel's [commentary](https://www.brookings.edu/articles/how-to-fix-what-ails-the-feds-discount-window/)). However, borrowing through the facility is a *stigma* for banks (i.e. it is a signal that you are in a big trouble, which itself triggers bank runs), this means that commercial banks are more likely to pursue self-rescue by selling assets for cash before seeking help from the central bank. By the time they turn to the central bank, they are likely left with no collateral, putting the emergency facility in vain.
+
+In my design, the commercial banks like Pony are allowed to borrow *as much as they want* from the central bank without collateral, at the policy lending rate (which is slightly above the deposit rate). What? the central bank is now taking risks? But who else is in a better position to take such risks, other than the institution responsible for prudential regulation, the central bank itself? Why should poor depositors who are uninformed about the intricate banking system bear such risks? Oh, you mentioned the deposite insurance? EXACTLY, we also have an insurance in this design - the deposit-lending rate spread, so why is the fuss about this additional risk, when we have an insurance in design? Moreover, as I will demonstrate later, this design eliminates the *systemic* risk by avoiding bank runs, so on the whole the risk level is lower.
+
+Let's say Pony borrows the exact amount of lost deposits from the central bank, its balance sheet will recover:
+
+![image](commercial3.png "Pony's balance sheet after loan")
+
+Accordingly, the Central Bank's balance sheet changes as follows:
+
+![image](cb3.png "Central Bank's balance sheet after loan")
+
+Over time, when more and more depositors switch to the central bank, Pony's balance sheet will end up like this:
+
+![image](commercial4.png "Pony's balance sheet before eliminating reserves")
+
+While the central bank's balance sheet will be like:
+
+![image](cb4.png "Central Bank's balance sheet before eliminating reserves")
+
+Now commercial bank reserves with the central bank look silly right? Why would the commercial banks borrow from and deposit at the central bank at the same time when it is not profitable? Also, the reserves lose their point - if there is no risk of bank run and cash is easily obtainable from the central bank, why keeping reserves? At the end of the day, reserves cancel out with central bank loans. For Pony,
+
+![image](commercial5.png "Pony's balance sheet without reserves")
+
+For Central Bank:
+
+![image](cb5.png "Central Bank's balance sheet without reserves")
+
+Welcome to a world of save deposits and no bank run.
 
 # Frequently Asked Questions
