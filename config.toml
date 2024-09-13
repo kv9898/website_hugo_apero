@@ -165,11 +165,11 @@ enableEmoji = true
     title = "Papers"
     url = "/papers/"
     weight = 2
-  #[[menu.header]]
-  #  name = "Blog"
-  #  title = "Blog"
-  #  url = "/blog/"
-  #  weight = 2
+  [[menu.header]]
+    name = "Blog"
+    title = "Blog"
+    url = "/blog/"
+    weight = 2
   #[[menu.header]]
   #  name = "Projects"
   #  title = "Project Portfolio"
