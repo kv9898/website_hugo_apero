@@ -1,0 +1,19 @@
+---
+author: Dianyi Yang
+title: How allowing individuals to save with the central bank can prevent bank runs
+categories:
+  - monetary policy
+date: '2024-09-12'
+draft: false
+excerpt: 'Keywords: monetary policy, bank run, moral hazard'
+layout: single
+format:
+  hugo-md:
+    html-math-method: webtex
+tags:
+  - monetary policy
+  - bank run
+  - moral hazard
+---
+
+
