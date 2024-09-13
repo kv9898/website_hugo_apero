@@ -24,7 +24,7 @@ sidebar:
     the _index.md file in the /blog folder \nto edit this content. \n"
   series_link: true
   show_sidebar_adunit: true
-  tags_link: true
+  tags_link: false
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
   title: A Sidebar for Your Thoughts
