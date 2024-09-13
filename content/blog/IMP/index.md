@@ -1,0 +1,37 @@
+---
+author: Dianyi Yang
+title: >-
+  Inverted Monetary Policy — A partial solution to stagflation, inequality and
+  high debt levels.
+subtitle: originally posted on Medium as a LSE SU Central Banking Society contribution
+categories:
+  - political economy
+date: '2023-02-23'
+draft: false
+excerpt: 'Keywords: monetary policy, stagflation, inequality, deleveraging'
+layout: single
+format:
+  hugo-md:
+    html-math-method: webtex
+tags:
+  - monetary policy
+  - stagflation
+  - inequality
+  - deleveraging
+links:
+  - icon: medium
+    icon_pack: fab
+    name: Medium
+    url: >-
+      https://lsecentralbanking.medium.com/inverted-monetary-policy-a-partial-solution-to-stagflation-inequality-and-high-debt-levels-668ceb6f66f4
+execute:
+  echo: false
+  warning: false
+  error: false
+  message: false
+---
+
+
+# Abstract
+
+The existing literature has shown that current monetary tools are insufficient to address the current issue of stagflation and have contributed to the pre-existing problems of wealth inequality and high debt levels. Therefore, I propose a new set of monetary tools, namely the "Inverted Monetary Policy" (IMP), as part of the solution to these mentioned problems. I argue that this new set of tools has a disinflationary impact in the short term and redistributive effects in the medium to long term. In a nutshell, this policy "borrows from the future" to suppress current prices, and the cost is paid mostly by the high-income class. Extra fiscal revenue might come as a side effect of this policy. Nevertheless, the policy would involve reforms of the monetary institutions and the fiscal-monetary relationship, and policy-makers need to face trade-offs between different policy objectives.
