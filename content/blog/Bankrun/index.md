@@ -101,4 +101,22 @@ Let's first consider the case where depositors transfer their funds to commercia
 
 It can be seen that, with the size of the balance sheet intact, the central bank is more profitable by having the same return on the assets on the left hand side, and paying less interest on the liabilities on the right hand side due to a higher proportion of cash. In fact, this profit generated from non-interest bearing cash is called seigniorage (see [Downes & Vaez-Zadeh, 1991](https://www.elibrary.imf.org/display/book/9781557751850/9781557751850.xml)).
 
+# A Ceiling System?
+
+Those who are familiar with monetary policy implementation sytems would know that there are different policy interest rates set by the central bank. Specifically, the central bank determines the interest rates at which it lends (against collateral) to commcercial banks (known as the lending rate) pays on commercial bank reserves (known as the deposit rate). The overnight interbank rate is bounded by the lending rate as the upper limit and the deposit rate as the lower limit. This is because, there is no point (assuming no stigma) borrowing above the lending rate from another bank when you can borrow from the central bank, or lending below the deposit rate when you can enjoy the same interest rate when despositing at the central bank savely.
+
+Prior to Quantitative Easing (QE), central banks operated in a so-called "corridor system" whereby the central bank buys and sells short-term Treasury securities to adjust the supply of reserves so that the the interbank rate is between the lending rate and the deposit rate. This is called Open Market Operations (OMO). This is shown in the diagram below:
+
+![image](corridor.jpg "Corridor system")
+
+*Source: [Reserve Bank of Australia](https://www.rba.gov.au/publications/bulletin/2022/jun/an-international-perspective-on-monetary-policy-implementation-systems.html)*
+
+After QE, there has been a plethora of reserves. As a result, overnight interbank rate equilibrates at the deposit rate. This is known as the floor system.
+
+![image](floor.jpg "Floor system")
+
+*Source: [Reserve Bank of Australia](https://www.rba.gov.au/publications/bulletin/2022/jun/an-international-perspective-on-monetary-policy-implementation-systems.html)*
+
+In contrast, our policy suggestion implies the opposite of the floor system, i.e. the ceiling system. This is because, contrary to the floor system where commercial banks abound with reserves, under our new policy, they are net debtors to the central bank. In this case, the interbank rate would equilibrate at its ceiling of the *lending rate* (without collateral). The reason behind this is that, those commercial banks indebted to the central bank would not lend to other banks at an interest lower than their own marginal cost of borrowing (the policy lending rate); those that are not debtor to the central bank would not keep any reserves either - it is more profitable to lend this extra cash to other banks and the latter would agree to borrow at the ceiling of the lending rate.
+
 # Frequently Asked Questions
