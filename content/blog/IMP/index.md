@@ -43,6 +43,10 @@ The existing literature has shown that current monetary tools are insufficient t
 
 As of 2022, central banks in the West have generally reversed their previous position that inflation was "transitory" (BoE, 2021; ECB, 2021; Powell, 2021) and admitted the persistence of inflation as evident in their hawkish turn. Despite the late acknowledgements of the problem, they are far from solving it.
 
+## a
+
+### b
+
 # References
 
 BoE. (2021, August). *Monetary policy report - august 2021*. Retrieved October 26, 2022, from <https://www.bankofengland.co.uk/monetary-policy-report/2021/august-2021>
